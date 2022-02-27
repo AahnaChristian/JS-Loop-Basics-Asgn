@@ -1,0 +1,9 @@
+html {
+    background: black;
+}
+
+body {
+    color: white;
+    font-family:'Courier New', Courier, monospace;
+    margin: 30px 400px;
+}
